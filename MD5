@@ -1,7 +1,7 @@
-08d760b4de96008354be9fd6e767dda5 *DESCRIPTION
-13e8521b8465fa5f26577470dfe9defa *NAMESPACE
-ceb43f337e883ee8df98c29839d7bd51 *R/disparity_filter.R
-cc8b1a7bf4ae395ad91ff723bd089692 *README.md
-9c8ba909973f5caa1967e9934dcc4e2d *data/network.rda
-24325efc6887fe969589d3cf65fbd8b8 *man/get.backbone.Rd
-a1eac917e175b661c63f5abd3cabcb4b *man/network.Rd
+ac1164ae65beb553b5187c8280fdef10 *DESCRIPTION
+64175753438c8d1b3f6c6c0223ad430e *NAMESPACE
+575cdf4406af2d7d7342a8e4e3bfd257 *R/disparity_filter.R
+d3104e1fdb99013fa632cfb72746b59d *README.md
+46000bdd874d60894df6f415199bf72c *man/backbone.Rd
+a487551f167442fe1f02bf16682a720c *tests/testthat.R
+d3adae73d6d0f0751c29c952e4e04933 *tests/testthat/test-all.R
